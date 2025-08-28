@@ -11,8 +11,7 @@ def myUpperCase(mystring):
     -------
     str
         an upper case version of my string word
-    """
-    """
+    
     The program deals with math and other list type stuff.
     parameters
     ------
