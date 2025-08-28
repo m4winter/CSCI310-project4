@@ -1,1 +1,2 @@
-this is a read me file, please push you thingy
+this is a read me file<br>
+go to src/work to see the progress i made.
