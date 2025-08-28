@@ -12,8 +12,10 @@ def myUpperCase(mystring):
     str
         an upper case version of my string word
     """
-    """
-    The program deals with math and other list type stuff.
+    
+    return mystring.upper()
+def entireprogram(nothing):
+    """The program deals with math and other list type stuff.
     parameters
     ------
     nothing
@@ -23,7 +25,7 @@ def myUpperCase(mystring):
     lists and other like it
         like it says it is just normal list and stuff like that, that are in the program.
     """
-    return mystring.upper()
+    
 if __name__ == "__main__":
     print("hello world")
     mstr = "this is a testing area for a function"
